@@ -1,0 +1,5 @@
+prettier-standard 'index.js'
+prettier-standard 'routes/**/*.js'
+prettier-standard 'controllers/**/*.js'
+prettier-standard 'models/**/*.js'
+prettier-standard 'middleware/**/*.js'
