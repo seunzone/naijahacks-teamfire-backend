@@ -14,9 +14,9 @@ Visit http://team-fire.tech/ <br>
 
 Setup the app on your machine: <br>
 1. git clone this repo <br>
-2. run `npm install` to install all dependencies needed. <br>
+2. run `yarn install` to install all dependencies needed. <br>
 3. make .env file, supply every api key and endpoints specified in .env.sample. <br>
-3. run `npm start` to get the server up and running. <br>
+3. run `yarn start` to get the server up and running. <br>
 
 ### Technologies Used: <br>
 - NodeJS for the API
@@ -28,3 +28,7 @@ Setup the app on your machine: <br>
 * [Seun Daramola](https://github.com/seunzone) --- Software Developer @Andela
 * [IB Olamilekan](https://github.com/leksyib) --- Freelance DevOps Engineer & Backend developer
 
+### Links
+Landing Page: team-fire.tec
+API Code: https://github.com/seunzone/naijahacks-teamfire-backend
+Front-end Code: https://github.com/leksyib/naijahacks-teamfire-frontend
