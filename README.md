@@ -11,6 +11,8 @@ Visit http://team-fire.tech/ <br>
 <img src="image.png">
 
 ### Setup the app on your machine: <br>
+
+Setup the app on your machine: <br>
 1. git clone this repo <br>
 2. run `npm install` to install all dependencies needed. <br>
 3. make .env file, supply every api key and endpoints specified in .env.sample. <br>
